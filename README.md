@@ -1,21 +1,21 @@
 # Hi There!
-I am Camilla Spingola, a passionate AI Engineer. I just obtained a Master's Degree in AI Computer Engineering at Università degli studi di Salerno.  
-
-As someone who pays close attention to detail and is fully invested in my work, I am eager to use my passion for Artificial intelligence to drive technological advancement and make a real impact on the world through innovative ideas. 
+I am Camilla Spingola, a Master's degree graduate in Computer Engineering, specializing in Artificial Intelligence and Intelligent Robotics. Currently,I am doing a research grant at the University of Salerno, focusing on the field of Artificial Vision for autonomous driving in high-speed railways. Driven by an insatiable curiosity and a deep passion for my field of study and work, I continuously strive to stay updated with the latest innovations and advancements in this ever-evolving sector.
 
 ### 🎓 Academic backgroud
 **Master's Degree in AI Computer Engineering** – Università degli studi di Salerno (Italy)
-* GPA: ​29.12/30 (3.88/4)
 * 110/110 summa cum laude
-* MSc thesis "Multi-task techniques for road weather classification and surface anomaly detection", The addressed problem concerns the classification of road conditions, with three main sub-tasks: detecting irregularities, assessing friction, and identifying the material of the road surface. The proposal involved the research and subsequent reorganization of a highly significant dataset in the state of the art and the implementation of a complex architecture based on CNN, RNN, introducing an innovative algorithm called PLA.
+* MSc thesis "Detecting obstacles in railway environments in real time": Design and development of an Artificial Vision system for the detection, among all possible obstacles on railways, of rocks, using a camera mounted on board a vehicle. Due to the absence of available data, it has been proceeded with the generation of a synthetic dataset using background images of railway environment. A system with good generalization capability also for obstacles on which it had not been trained on has been obtained.
 
 **Bachelor's Degree in Computer Science and Engineering** — Università degli Studi di Salerno (Salerno, Italy) 
-* GPA: 28.87/30 (3.85/4)
 * 110/110 summa cum Laude
 * Graduated in the earliest possible session, with full marks
-* BSc thesis "Progettazione e realizzazione di un portale web per il conteggio automatico dei volti".
+* BSc thesis "Conteggio automatico di persone tramite una rete neurale integrata in una web application".
 
-### 📚 Main Projects
+### 📌 Thesis Projects
+* Research Master Thesis in Computer Vision: "Detecting obstacles in railway environments in real time" [(Code, Thesis, Presentation and demo)](https://github.com/CamillaSpi/Detecting-obstacles-in-railway-environments-in-real-time)
+* Bachelor Thesis in Web Technologies "Progettazione e realizzazione di un portale web per il conteggio automatico di persone" [(Code, Thesis, Presentation and demo)](https://github.com/CamillaSpi/ImageClassifier-A-web-portal-for-image-classification-using-AI)
+
+### 📚 Other Projects
 * _ARTIFICIAL VISION:_ [AI Age Estimation from Faces](https://github.com/MattiaMarseglia/Artificial-Vision-Project)
 * _COGNITIVE ROBOTICS:_ [AI To-Do Assistant Robot](https://github.com/CamillaSpi/AI-To-Do-Assistant-Robot)
 * _AUTONOMOUS VEHICLE DRIVING:_ [Intelligent Driving Agent](https://github.com/vturi3/Intelligent-Driving-Agent)
@@ -26,16 +26,11 @@ As someone who pays close attention to detail and is fully invested in my work, 
 * _EMBEDDED SYSTEMS:_ [Air-Mouse System Fingers-Based](https://github.com/MattiaMarseglia/AIR-Mouse-Project)
 * _ALGORITMI E PROTOCOLLI PER LA SICUREZZA:_ [Blockchain Technology for Secure Voting System](https://github.com/MattiaMarseglia/Blockchain-for-Correct-Voting)
 * _HIGH PERFORMANCE COMPUTING:_ [HPC-Radix-Sort-Optimization](https://github.com/MattiaMarseglia/HPC-Radix-Sort-Optimization)
+* _DESIGN AND ANALYSIS OF ALGORITHMS:_ [DNA Contamination and Social Network Sentiment Analysis](https://github.com/CamillaSpi/DNA-Contamination-and-Social-Network-Sentiment-Analysis)
+* _SOFTWARE ENGINEERING:_ [Complex Number Calculator](https://github.com/CamillaSpi/Scientific-Programmable-Complex-Calculator)
+* _DATABASE DESIGN:_ [Database for Volunteer Mission Management System](https://github.com/MattiaMarseglia/Volunteer-Mission-Management-System)
+* _WEB_TECHNOLOGIES_: [A web portal for playing image based quizzes](https://github.com/CamillaSpi/A-web-portal-for-playing-image-based-quizzes)
 
-* _DESIGN AND ANALYSIS OF ALGORITHMS:_ [Social-Network-Analysis](https://github.com/MattiaMarseglia/Design-and-Analysis-of-Algorithms)
-* _SOFTWARE ENGINEERING:_ [Complex-Number-Calculator](https://github.com/CamillaSpi/ProjectGruppo12IZ)
-* _DATABASE DESIGN:_ [Volunteer-Mission-Management-System](https://github.com/MattiaMarseglia/Volunteer-Mission-Management-System)
-* _WEB_TECHNOLOGIES_: [A-web-portal-for-playing-image-based-quizzes](https://github.com/CamillaSpi/A-web-portal-for-playing-image-based-quizzes)
-
-
-### 📌 Thesis Projects
-* Research Master Thesis in Computer Vision: "Detecting obstacles in railway environments in real time" [(Code, Thesis, Presentation and demo)](https://github.com/CamillaSpi/Detecting-obstacles-in-railway-environments-in-real-time)
-* Bachelor Thesis in Web Technologies "Progettazione e realizzazione di un portale web per il conteggio automatico di persone" [(Code, Thesis, Presentation and demo)](https://github.com/CamillaSpi/ImageClassifier-A-web-portal-for-image-classification-using-AI)
 ### 📫 Contacts
 * [Mail](spingolacamilla36@gmail.com)
 
