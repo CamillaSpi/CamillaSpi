@@ -21,18 +21,17 @@ As someone who pays close attention to detail and is fully invested in my work, 
 * _AUTONOMOUS VEHICLE DRIVING:_ [Intelligent Driving Agent](https://github.com/vturi3/Intelligent-Driving-Agent)
 * _RENEWABLE ENERGY:_ [Hotspot-and-Shadow-Detection-for-Solar-Panels](https://github.com/MattiaMarseglia/Hotspot-and-Shadow-Detection-for-Solar-Panels)
 * _ARTIFICIAL INTELLIGENCE FOR CYBERSECURITY:_ [Malware-Detection](https://github.com/MattiaMarseglia/Malware-Detection)
-
-*  
-* _MACHINE LEARNING:_ [Painting-Classification](https://github.com/MattiaMarseglia/Painting-Classification)
 * _DATA ANALYSIS:_ [High-dimensional-Regression-and-Classifier-over-time](https://github.com/CamillaSpi/High-dimensional-space-Regression-and-Logistic-Classifier-over-time)
-* _ALGORITHMS AND PROTOCOLS FOR SECURITY:_ [Blockchain for Correct Voting](https://github.com/MattiaMarseglia/Blockchain-for-Correct-Voting)
+* _MACHINE LEARNING:_ [AI Painting Classification](https://github.com/MattiaMarseglia/Painting-Classification)
+* _EMBEDDED SYSTEMS:_ [Air-Mouse System Fingers-Based](https://github.com/MattiaMarseglia/AIR-Mouse-Project)
+* _ALGORITMI E PROTOCOLLI PER LA SICUREZZA:_ [Blockchain Technology for Secure Voting System](https://github.com/MattiaMarseglia/Blockchain-for-Correct-Voting)
 * _HIGH PERFORMANCE COMPUTING:_ [HPC-Radix-Sort-Optimization](https://github.com/MattiaMarseglia/HPC-Radix-Sort-Optimization)
 
 * _DESIGN AND ANALYSIS OF ALGORITHMS:_ [Social-Network-Analysis](https://github.com/MattiaMarseglia/Design-and-Analysis-of-Algorithms)
 * _SOFTWARE ENGINEERING:_ [Complex-Number-Calculator](https://github.com/CamillaSpi/ProjectGruppo12IZ)
 * _DATABASE DESIGN:_ [Volunteer-Mission-Management-System](https://github.com/MattiaMarseglia/Volunteer-Mission-Management-System)
 * _WEB_TECHNOLOGIES_: [A-web-portal-for-playing-image-based-quizzes](https://github.com/CamillaSpi/A-web-portal-for-playing-image-based-quizzes)
-* _EMBEDDED SYSTEMS:_ [AIR-Mouse](https://github.com/MattiaMarseglia/AIR-Mouse-Project)
+
 
 ### 📌 Thesis Projects
 * Research Master Thesis in Computer Vision: "Detecting obstacles in railway environments in real time" [(Code, Thesis, Presentation and demo)](https://github.com/CamillaSpi/Detecting-obstacles-in-railway-environments-in-real-time)
