@@ -29,7 +29,7 @@ I am Camilla Spingola, a Master's degree graduate in Computer Engineering, speci
 * _DESIGN AND ANALYSIS OF ALGORITHMS:_ [DNA Contamination and Social Network Sentiment Analysis](https://github.com/CamillaSpi/DNA-Contamination-and-Social-Network-Sentiment-Analysis)
 * _SOFTWARE ENGINEERING:_ [Complex Number Calculator](https://github.com/CamillaSpi/Scientific-Programmable-Complex-Calculator)
 * _DATABASE DESIGN:_ [Database for Volunteer Mission Management System](https://github.com/MattiaMarseglia/Volunteer-Mission-Management-System)
-* _WEB_TECHNOLOGIES_: [A web portal for playing image based quizzes](https://github.com/CamillaSpi/A-web-portal-for-playing-image-based-quizzes)
+* _TECNOLOGIE SOFTWARE PER IL WEB_: [A web portal for playing image based quizzes](https://github.com/CamillaSpi/A-web-portal-for-playing-image-based-quizzes)
 
 ### 📫 Contacts
 * [Mail](spingolacamilla36@gmail.com)
